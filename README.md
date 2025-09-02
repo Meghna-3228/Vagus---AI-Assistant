@@ -50,7 +50,8 @@ Make sure you have Node.js installed on your computer. You'll need it to run the
 2. Installation
 First, clone this repository to your machine:
 
-git clone [https://github.com/your-username/vagus-ai.git](https://github.com/your-username/vagus-ai.git)
+git clone https://github.com/Meghna-3228/Vagus---AI-Assistant.git
+
 cd vagus-ai
 
 Next, you'll need to install the necessary packages for both the client (frontend) and the server (backend).
